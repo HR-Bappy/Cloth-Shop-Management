@@ -1,5 +1,5 @@
 # Cloth-Shop-Management
-project name Cloth shop management system
+project name Cloth shop management system     
 language: cpp
 
 ![](images/1.PNG)
